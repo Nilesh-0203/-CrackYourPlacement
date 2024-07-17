@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
