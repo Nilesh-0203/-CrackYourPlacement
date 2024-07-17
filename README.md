@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Design
 |  |
