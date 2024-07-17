@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Prefix Sum
 |  |
 | ------- |
