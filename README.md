@@ -58,21 +58,32 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
