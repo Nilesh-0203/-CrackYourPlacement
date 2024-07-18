@@ -53,4 +53,16 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
+## Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Binary Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->
