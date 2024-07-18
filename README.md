@@ -62,6 +62,7 @@
 | [0101-symmetric-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -81,6 +83,7 @@
 | [0101-symmetric-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -102,6 +105,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0112-path-sum) |
 ## Array
 |  |
 | ------- |
