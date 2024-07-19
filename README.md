@@ -23,6 +23,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## String Matching
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Matrix
 |  |
 | ------- |
