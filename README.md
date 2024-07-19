@@ -149,6 +149,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
