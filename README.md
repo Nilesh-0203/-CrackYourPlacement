@@ -22,6 +22,7 @@
 | [0206-reverse-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -126,6 +127,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
@@ -264,4 +266,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
