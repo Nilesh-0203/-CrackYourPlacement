@@ -17,6 +17,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -26,6 +27,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0445-add-two-numbers-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -69,6 +71,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0227-basic-calculator-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
 |  |
 | ------- |
