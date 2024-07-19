@@ -9,6 +9,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
