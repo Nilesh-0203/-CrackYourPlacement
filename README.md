@@ -145,6 +145,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
@@ -178,6 +179,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
