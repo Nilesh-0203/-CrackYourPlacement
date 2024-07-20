@@ -221,6 +221,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0303-range-sum-query-immutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -282,10 +283,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Ordered Set
 |  |
@@ -322,6 +325,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0937-online-stock-span](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 ## Queue
