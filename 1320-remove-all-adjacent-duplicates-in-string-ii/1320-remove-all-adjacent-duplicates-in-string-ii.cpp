@@ -6,9 +6,8 @@ public:
         for(int i=1;i<s.length();i++){
             if(!st.empty() && st.top().first==s[i]){
                 pair<char,int>front=st.top();
-                int cnt=front.second;
                 st.pop();
-                cnt=cnt+1;
+                int cnt=front.second+1;
                 if(cnt!=k){
                     st.push({s[i],cnt});
                 }
