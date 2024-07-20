@@ -142,6 +142,7 @@
 | [0112-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
@@ -200,6 +201,7 @@
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -332,6 +334,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
@@ -356,4 +359,5 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
