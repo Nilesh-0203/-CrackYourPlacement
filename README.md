@@ -217,6 +217,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0090-subsets-ii) |
@@ -238,6 +239,7 @@
 | [0040-combination-sum-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
