@@ -202,6 +202,7 @@
 | [0071-simplify-path](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -214,6 +215,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -262,6 +264,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
