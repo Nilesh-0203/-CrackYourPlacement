@@ -241,6 +241,7 @@
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 ## String Matching
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 ## Sorting
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -360,4 +363,8 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
