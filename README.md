@@ -215,6 +215,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
@@ -231,6 +232,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0162-find-peak-element) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
