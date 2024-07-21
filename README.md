@@ -102,6 +102,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
@@ -215,6 +216,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0051-n-queens) |
@@ -236,6 +238,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
@@ -297,6 +300,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
