@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0336-palindrome-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -265,6 +267,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -309,6 +312,7 @@
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -362,6 +366,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -428,4 +433,8 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
