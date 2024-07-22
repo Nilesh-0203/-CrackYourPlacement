@@ -72,6 +72,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Merge Sort
@@ -293,6 +294,7 @@
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
@@ -346,6 +348,7 @@
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -403,6 +406,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
