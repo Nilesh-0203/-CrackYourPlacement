@@ -114,6 +114,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -419,6 +421,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -438,6 +441,7 @@
 | [0937-online-stock-span](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Design
 |  |
 | ------- |
