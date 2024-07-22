@@ -57,11 +57,13 @@
 | [0148-sort-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
@@ -112,6 +114,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
@@ -266,6 +269,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0336-palindrome-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
@@ -315,6 +319,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -442,5 +447,14 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
