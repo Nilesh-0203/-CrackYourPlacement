@@ -65,6 +65,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 ## Merge Sort
@@ -267,6 +268,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -355,6 +357,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Binary Indexed Tree
@@ -421,6 +424,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 ## Data Stream
 |  |
@@ -462,4 +466,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
