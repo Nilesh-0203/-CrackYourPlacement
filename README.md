@@ -72,6 +72,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
@@ -175,6 +176,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
@@ -215,6 +217,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## String
 |  |
@@ -262,6 +265,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Array
 |  |
@@ -294,6 +298,7 @@
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -357,6 +362,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -496,4 +502,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
