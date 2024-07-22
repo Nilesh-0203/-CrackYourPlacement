@@ -8,7 +8,7 @@ public:
         int result=0;
         unordered_set<int>st;
         for(int i=0;i<26;i++){
-            if(v[i]>0 && st.find(v[i])!=st.end()){
+            while(v[i]>0 && st.find(v[i])!=st.end()){
                 v[i]=v[i]-1;
                 result++;
             }
