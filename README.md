@@ -247,6 +247,7 @@
 | [0336-palindrome-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0402-remove-k-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -308,6 +309,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
@@ -354,6 +356,7 @@
 | [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
