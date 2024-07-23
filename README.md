@@ -358,6 +358,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [0972-knight-dialer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1008-binary-tree-cameras](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1008-binary-tree-cameras) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
