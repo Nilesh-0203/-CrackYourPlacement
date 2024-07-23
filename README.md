@@ -236,6 +236,7 @@
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
@@ -344,6 +345,7 @@
 | [0062-unique-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
