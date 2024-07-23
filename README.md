@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
@@ -339,6 +340,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
@@ -539,4 +541,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
