@@ -271,6 +271,7 @@
 | [0101-symmetric-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -295,6 +296,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0336-palindrome-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -339,6 +341,7 @@
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
