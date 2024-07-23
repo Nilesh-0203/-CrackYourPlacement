@@ -286,6 +286,7 @@
 | [0047-permutations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -338,6 +339,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
@@ -380,6 +382,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
