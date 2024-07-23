@@ -30,6 +30,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
@@ -337,6 +338,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
@@ -530,4 +532,8 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
