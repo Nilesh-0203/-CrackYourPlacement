@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0148-sort-list) |
@@ -103,6 +104,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0143-reorder-list) |
@@ -291,6 +293,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0051-n-queens) |
@@ -357,6 +360,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
@@ -492,6 +496,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
