@@ -54,6 +54,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0394-decode-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
@@ -254,6 +256,7 @@
 | [0227-basic-calculator-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
+| [0394-decode-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
