@@ -300,6 +300,7 @@
 | [0152-maximum-product-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
@@ -357,6 +358,7 @@
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
@@ -401,6 +403,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
