@@ -138,6 +138,7 @@
 | [0496-next-greater-element-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
+| [0740-delete-and-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -320,6 +321,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -368,6 +370,7 @@
 | [0474-ones-and-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
