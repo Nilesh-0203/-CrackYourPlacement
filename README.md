@@ -200,6 +200,7 @@
 | [0971-shortest-bridge](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1008-binary-tree-cameras) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
@@ -299,6 +300,7 @@
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Array
 |  |
 | ------- |
@@ -418,6 +420,7 @@
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 ## Sorting
 |  |
@@ -610,6 +613,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Memoization
 |  |
 | ------- |
