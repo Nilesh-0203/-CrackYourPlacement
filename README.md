@@ -189,6 +189,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0341-flatten-nested-list-iterator](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -299,6 +300,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
@@ -343,6 +345,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0336-palindrome-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -410,6 +413,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
@@ -434,6 +438,7 @@
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
@@ -468,6 +473,7 @@
 | [0200-number-of-islands](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -596,6 +602,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 ## Geometry
@@ -640,6 +647,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Combinatorics
 |  |
 | ------- |
