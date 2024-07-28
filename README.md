@@ -316,6 +316,7 @@
 | [0971-shortest-bridge](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Array
 |  |
 | ------- |
@@ -451,6 +452,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
@@ -672,5 +674,6 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
