@@ -692,4 +692,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
