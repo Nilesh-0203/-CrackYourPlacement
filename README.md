@@ -398,6 +398,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -452,6 +453,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Graph
 |  |
 | ------- |
