@@ -278,6 +278,7 @@
 | [0402-remove-k-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0664-strange-printer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -439,6 +440,7 @@
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0650-2-keys-keyboard](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
