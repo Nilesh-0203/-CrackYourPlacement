@@ -189,6 +189,7 @@
 | [0975-range-sum-of-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1008-binary-tree-cameras) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [1300-critical-connections-in-a-network](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
