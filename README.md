@@ -415,6 +415,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1063-best-sightseeing-pair](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1325-path-with-maximum-probability](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
@@ -486,6 +487,7 @@
 | [0972-knight-dialer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1008-binary-tree-cameras](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1008-binary-tree-cameras) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1063-best-sightseeing-pair](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
