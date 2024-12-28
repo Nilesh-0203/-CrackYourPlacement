@@ -400,6 +400,7 @@
 | [0546-remove-boxes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
@@ -476,6 +477,7 @@
 | [0546-remove-boxes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0546-remove-boxes) |
 | [0650-2-keys-keyboard](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
