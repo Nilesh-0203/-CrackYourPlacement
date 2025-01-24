@@ -22,7 +22,7 @@ public:
                 adj[i].push_back(graph[i][j]);
             }
         }
-            vector<bool>vis(n,false);
+        vector<bool>vis(n,false);
         vector<bool>recst(n,false);
         for(int i=0;i<n;i++){
             if(vis[i]==false){
