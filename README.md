@@ -168,6 +168,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2434-design-a-number-container-system) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -451,6 +452,7 @@
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -585,6 +587,7 @@
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Simulation
 |  |
@@ -727,6 +730,7 @@
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
