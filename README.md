@@ -48,6 +48,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2610-closest-prime-numbers-in-range) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3451-string-compression-iii) |
 ## Backtracking
@@ -524,6 +526,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Graph
 |  |
 | ------- |
