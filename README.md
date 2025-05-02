@@ -114,6 +114,7 @@
 | [0148-sort-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0868-push-dominoes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -320,6 +321,7 @@
 | [0692-top-k-frequent-words](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0868-push-dominoes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -519,6 +521,7 @@
 | [0740-delete-and-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
+| [0868-push-dominoes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
