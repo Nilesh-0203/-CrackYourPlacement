@@ -51,6 +51,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2610-closest-prime-numbers-in-range) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -335,6 +336,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3451-string-compression-iii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -538,6 +540,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3637-count-number-of-balanced-permutations) |
 ## Graph
 |  |
 | ------- |
@@ -797,6 +800,7 @@
 | [0062-unique-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3637-count-number-of-balanced-permutations) |
 ## Rolling Hash
 |  |
 | ------- |
