@@ -449,6 +449,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1293-three-consecutive-odds](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
