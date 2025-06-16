@@ -478,6 +478,7 @@
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2262-solving-questions-with-brainpower](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
