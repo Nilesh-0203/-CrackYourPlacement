@@ -504,6 +504,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## String Matching
 |  |
@@ -668,6 +669,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Indexed Tree
 |  |
@@ -709,6 +711,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
