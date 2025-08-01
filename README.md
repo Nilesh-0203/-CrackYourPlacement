@@ -417,6 +417,7 @@
 | [0085-maximal-rectangle](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
@@ -530,6 +531,7 @@
 | [0091-decode-ways](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
