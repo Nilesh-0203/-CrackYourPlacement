@@ -305,6 +305,7 @@
 | [0975-range-sum-of-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
@@ -491,6 +492,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2262-solving-questions-with-brainpower](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -674,6 +676,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -731,6 +734,7 @@
 | [1042-minimum-cost-to-merge-stones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3639-zero-array-transformation-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Doubly-Linked List
