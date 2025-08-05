@@ -308,6 +308,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -513,6 +514,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -667,6 +669,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -697,12 +700,14 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [2434-design-a-number-container-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
