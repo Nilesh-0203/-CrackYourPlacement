@@ -350,6 +350,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2887-sort-vowels-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -627,6 +628,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2887-sort-vowels-in-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Matrix
