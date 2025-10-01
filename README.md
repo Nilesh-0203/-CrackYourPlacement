@@ -48,6 +48,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1642-water-bottles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1642-water-bottles) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -690,6 +691,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1642-water-bottles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
