@@ -94,6 +94,7 @@
 | [0264-ugly-number-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -398,6 +399,7 @@
 | [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
@@ -457,6 +459,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -659,6 +662,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
