@@ -119,6 +119,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0086-partition-list) |
@@ -421,6 +422,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
@@ -743,6 +745,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
