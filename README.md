@@ -541,6 +541,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3483-alternating-groups-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -785,6 +786,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3639-zero-array-transformation-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Doubly-Linked List
