@@ -61,6 +61,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -551,6 +552,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
 |  |
 | ------- |
@@ -620,6 +622,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3637-count-number-of-balanced-permutations) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Graph
 |  |
 | ------- |
@@ -708,6 +711,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -871,6 +875,7 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
 | ------- |
@@ -926,6 +931,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Rolling Hash
 |  |
 | ------- |
