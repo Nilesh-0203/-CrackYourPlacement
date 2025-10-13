@@ -191,6 +191,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -362,6 +363,7 @@
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -504,6 +506,7 @@
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1293-three-consecutive-odds](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -660,6 +663,7 @@
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1014-k-closest-points-to-origin](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
