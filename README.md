@@ -373,6 +373,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -529,6 +530,7 @@
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2262-solving-questions-with-brainpower](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
@@ -729,6 +731,7 @@
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
