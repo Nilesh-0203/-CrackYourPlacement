@@ -114,6 +114,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2434-design-a-number-container-system) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
@@ -562,6 +564,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-alternating-groups-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -760,6 +763,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
