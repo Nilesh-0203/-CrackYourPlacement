@@ -592,6 +592,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3623-count-number-of-trapezoids-i) |
 | [3639-zero-array-transformation-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
@@ -793,6 +794,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Indexed Tree
@@ -864,6 +866,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Doubly-Linked List
 |  |
