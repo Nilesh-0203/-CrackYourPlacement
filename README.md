@@ -291,6 +291,7 @@
 | [1300-critical-connections-in-a-network](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2092-find-all-people-with-secret](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -451,6 +452,7 @@
 | [1229-shortest-path-with-alternating-colors](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2092-find-all-people-with-secret](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
@@ -685,6 +687,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2092-find-all-people-with-secret](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -713,6 +716,7 @@
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2092-find-all-people-with-secret](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -987,6 +991,7 @@
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2092-find-all-people-with-secret](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Memoization
 |  |
