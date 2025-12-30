@@ -44,6 +44,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0830-largest-triangle-area](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0840-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -199,6 +200,7 @@
 | [0692-top-k-frequent-words](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0840-magic-squares-in-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -519,6 +521,7 @@
 | [0740-delete-and-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -751,6 +754,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
