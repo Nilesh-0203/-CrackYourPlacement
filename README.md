@@ -203,6 +203,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -529,6 +530,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0971-shortest-bridge](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
