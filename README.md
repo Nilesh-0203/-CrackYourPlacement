@@ -363,6 +363,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
@@ -608,6 +609,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3453-separate-squares-i) |
 | [3483-alternating-groups-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
