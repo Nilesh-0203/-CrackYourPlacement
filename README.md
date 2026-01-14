@@ -364,6 +364,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
@@ -610,6 +611,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 | [3483-alternating-groups-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -851,6 +853,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3454-separate-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -1085,4 +1088,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
