@@ -224,6 +224,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -599,6 +600,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1082,6 +1084,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1656-count-good-triplets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Brainteaser
