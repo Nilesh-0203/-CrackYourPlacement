@@ -355,6 +355,7 @@
 | [0794-swim-in-rising-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0923-super-egg-drop](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [0975-range-sum-of-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -555,6 +556,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -787,6 +789,7 @@
 | [0971-shortest-bridge](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1022-unique-paths-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1117-as-far-from-land-as-possible](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -905,6 +908,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1590-make-sum-divisible-by-p) |
