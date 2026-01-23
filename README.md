@@ -25,6 +25,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2434-design-a-number-container-system) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Merge Sort
 |  |
@@ -229,6 +231,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3623-count-number-of-trapezoids-i) |
@@ -622,6 +625,7 @@
 | [3453-separate-squares-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 | [3483-alternating-groups-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -829,6 +833,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2402-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3336-water-bottles-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -875,6 +880,7 @@
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2434-design-a-number-container-system) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -933,6 +939,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
