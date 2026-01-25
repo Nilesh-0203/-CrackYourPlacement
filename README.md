@@ -587,6 +587,7 @@
 | [1895-largest-magic-square](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-maximum-matrix-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -765,6 +766,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -849,6 +851,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
