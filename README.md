@@ -184,6 +184,7 @@
 | [0937-online-stock-span](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -423,6 +424,7 @@
 | [0868-push-dominoes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
