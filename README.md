@@ -420,6 +420,7 @@
 | [0402-remove-k-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0657-robot-return-to-origin](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -899,6 +900,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0657-robot-return-to-origin](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1642-water-bottles) |
