@@ -100,6 +100,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1382-balance-a-binary-search-tree) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3721-longest-balanced-subarray-ii) |
 ## Heap (Priority Queue)
@@ -685,6 +686,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3721-longest-balanced-subarray-ii) |
