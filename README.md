@@ -253,6 +253,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3721-longest-balanced-subarray-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
 |  |
@@ -690,6 +691,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3721-longest-balanced-subarray-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
