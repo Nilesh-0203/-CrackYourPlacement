@@ -74,6 +74,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3783-mirror-distance-of-an-integer) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
