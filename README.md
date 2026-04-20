@@ -632,6 +632,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1001,6 +1002,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
