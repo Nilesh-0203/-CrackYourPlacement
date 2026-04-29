@@ -675,6 +675,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3225-maximum-score-from-grid-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -791,6 +792,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -905,6 +907,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -1046,6 +1049,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3432-count-partitions-with-even-sum-difference) |
