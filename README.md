@@ -40,6 +40,7 @@
 | [0264-ugly-number-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -568,6 +569,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0407-trapping-rain-water-ii) |
@@ -755,6 +757,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
