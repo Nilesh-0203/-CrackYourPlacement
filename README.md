@@ -45,6 +45,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
+| [0788-rotated-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0840-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
@@ -770,6 +771,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
+| [0788-rotated-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0863-sum-of-distances-in-tree) |
 | [0868-push-dominoes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0868-push-dominoes) |
