@@ -441,6 +441,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
@@ -729,6 +730,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
