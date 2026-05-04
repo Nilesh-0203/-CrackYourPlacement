@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
@@ -540,6 +541,7 @@
 | [0040-combination-sum-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
@@ -884,6 +886,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0200-number-of-islands) |
