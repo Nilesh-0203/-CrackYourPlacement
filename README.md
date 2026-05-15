@@ -382,6 +382,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
@@ -557,6 +558,7 @@
 | [0134-gas-station](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0200-number-of-islands) |
