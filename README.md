@@ -644,6 +644,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1848-minimum-distance-to-the-target-element) |
