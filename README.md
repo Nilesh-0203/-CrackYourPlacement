@@ -75,6 +75,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3623-count-number-of-trapezoids-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3637-count-number-of-balanced-permutations) |
@@ -303,6 +304,7 @@
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -349,6 +351,7 @@
 | [2092-find-all-people-with-secret](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
