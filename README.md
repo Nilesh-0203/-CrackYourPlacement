@@ -26,6 +26,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
@@ -168,6 +169,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -202,6 +204,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2751-robot-collisions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2751-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
