@@ -141,6 +141,7 @@
 | [2402-meeting-rooms-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2434-design-a-number-container-system) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -420,6 +421,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3453-separate-squares-i) |
@@ -555,6 +557,7 @@
 | [2092-find-all-people-with-secret](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -707,6 +710,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -959,6 +963,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1324,4 +1329,5 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
