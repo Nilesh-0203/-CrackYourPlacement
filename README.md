@@ -361,6 +361,7 @@
 | [2092-find-all-people-with-secret](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2685-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -561,6 +562,7 @@
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2685-count-the-number-of-complete-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Array
@@ -1331,6 +1333,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -1340,5 +1343,6 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
