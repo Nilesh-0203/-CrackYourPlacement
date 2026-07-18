@@ -61,6 +61,7 @@
 | [1642-water-bottles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1642-water-bottles) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -687,6 +688,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1310,6 +1312,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2610-closest-prime-numbers-in-range) |
 ## Enumeration
