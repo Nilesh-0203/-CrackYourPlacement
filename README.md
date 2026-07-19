@@ -204,6 +204,7 @@
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -471,6 +472,7 @@
 | [0796-rotate-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1088,6 +1090,7 @@
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1018-largest-perimeter-triangle](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1382-balance-a-binary-search-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1612-avoid-flood-in-the-city) |
@@ -1159,6 +1162,7 @@
 | [0739-daily-temperatures](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
