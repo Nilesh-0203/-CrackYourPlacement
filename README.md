@@ -59,6 +59,7 @@
 | [1140-stone-game-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1563-stone-game-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1563-stone-game-v) |
 | [1642-water-bottles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1642-water-bottles) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -675,6 +676,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1590-make-sum-divisible-by-p) |
@@ -864,6 +866,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1563-stone-game-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1398,6 +1401,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
