@@ -63,6 +63,7 @@
 | [1642-water-bottles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1642-water-bottles) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1927-sum-game](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -497,6 +498,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1927-sum-game](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1141,6 +1143,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1413,6 +1416,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
