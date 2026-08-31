@@ -26,6 +26,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
