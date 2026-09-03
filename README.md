@@ -96,6 +96,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3783-mirror-distance-of-an-integer) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -816,6 +817,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String Matching
 |  |
 | ------- |
