@@ -819,6 +819,7 @@
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3904-smallest-stable-index-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -1202,6 +1203,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3904-smallest-stable-index-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
