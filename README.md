@@ -489,6 +489,7 @@
 | [0796-rotate-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -874,6 +875,7 @@
 | [0902-minimum-number-of-refueling-stops](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0972-knight-dialer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1008-binary-tree-cameras](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1008-binary-tree-cameras) |
