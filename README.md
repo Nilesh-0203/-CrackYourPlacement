@@ -259,6 +259,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -438,6 +439,7 @@
 | [0975-range-sum-of-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1382-balance-a-binary-search-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -689,6 +691,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -890,6 +893,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1090,6 +1094,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1733-maximum-number-of-visible-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
