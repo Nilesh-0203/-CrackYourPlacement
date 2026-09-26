@@ -269,6 +269,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -511,6 +512,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1927-sum-game](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -720,6 +722,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1855-maximum-distance-between-a-pair-of-values) |
