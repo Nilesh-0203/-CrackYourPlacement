@@ -219,6 +219,7 @@
 | [0937-online-stock-span](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -502,6 +503,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1461,4 +1463,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
