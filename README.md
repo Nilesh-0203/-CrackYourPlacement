@@ -223,6 +223,7 @@
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -511,6 +512,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1467,4 +1469,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
