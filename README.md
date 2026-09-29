@@ -752,6 +752,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -916,6 +917,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
@@ -1044,6 +1046,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1470,4 +1473,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
