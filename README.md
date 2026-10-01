@@ -198,6 +198,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
@@ -471,6 +472,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0067-add-binary) |
@@ -1473,6 +1475,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
