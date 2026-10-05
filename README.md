@@ -217,6 +217,7 @@
 | [0496-next-greater-element-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
@@ -505,6 +506,7 @@
 | [0730-count-different-palindromic-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0778-reorganize-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0796-rotate-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0940-distinct-subsequences-ii) |
@@ -1485,6 +1487,7 @@
 | [0020-valid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
