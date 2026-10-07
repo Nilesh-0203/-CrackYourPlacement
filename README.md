@@ -493,6 +493,7 @@
 | [0227-basic-calculator-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0394-decode-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0399-evaluate-division) |
@@ -575,6 +576,7 @@
 | [0090-subsets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
@@ -590,6 +592,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0399-evaluate-division) |
