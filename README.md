@@ -850,6 +850,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1032,6 +1033,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -1224,6 +1226,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
