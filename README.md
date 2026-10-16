@@ -294,6 +294,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -794,6 +795,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1160,6 +1162,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
@@ -1167,6 +1170,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3525-find-x-value-of-array-ii) |
