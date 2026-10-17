@@ -307,6 +307,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3623-count-number-of-trapezoids-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -833,6 +834,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1032,6 +1034,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
