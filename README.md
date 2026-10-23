@@ -855,6 +855,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1121,6 +1122,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
