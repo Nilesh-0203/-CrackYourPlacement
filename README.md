@@ -133,6 +133,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3721-longest-balanced-subarray-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -358,6 +359,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -410,6 +412,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -579,6 +582,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3838-weighted-word-mapping](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -879,6 +883,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3886-sum-of-sortable-integers) |
@@ -1134,6 +1139,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
@@ -1189,6 +1195,7 @@
 | [0327-count-of-range-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1202,6 +1209,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
