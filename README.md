@@ -299,6 +299,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2615-sum-of-distances](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2747-count-zero-request-servers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -814,6 +815,7 @@
 | [2615-sum-of-distances](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1055,6 +1057,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2463-minimum-total-distance-traveled) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2747-count-zero-request-servers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2887-sort-vowels-in-a-string) |
@@ -1186,6 +1189,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2747-count-zero-request-servers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3090-maximum-length-substring-with-two-occurrences) |
