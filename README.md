@@ -159,6 +159,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1612-avoid-flood-in-the-city) |
 | [1762-furthest-building-you-can-reach](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [1882-process-tasks-using-servers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1882-process-tasks-using-servers) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
@@ -777,6 +778,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
