@@ -835,6 +835,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3225-maximum-score-from-grid-operations) |
