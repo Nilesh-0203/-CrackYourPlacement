@@ -61,6 +61,7 @@
 | [1140-stone-game-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1642-water-bottles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1642-water-bottles) |
@@ -751,6 +752,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -976,6 +978,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1307,6 +1310,7 @@
 | [1140-stone-game-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
