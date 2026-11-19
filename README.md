@@ -821,6 +821,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2615-sum-of-distances](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2615-sum-of-distances) |
@@ -1074,6 +1075,7 @@
 | [2402-meeting-rooms-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2463-minimum-total-distance-traveled) |
 | [2502-sort-the-people](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2502-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2747-count-zero-request-servers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2751-robot-collisions) |
@@ -1294,6 +1296,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
