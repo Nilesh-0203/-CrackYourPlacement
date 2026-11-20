@@ -841,6 +841,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -999,6 +1000,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1084,6 +1086,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
