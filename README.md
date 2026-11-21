@@ -316,6 +316,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -367,6 +368,7 @@
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -419,6 +421,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/2685-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -583,6 +586,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3451-string-compression-iii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3451-string-compression-iii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -855,6 +859,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3364-minimum-positive-sum-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
