@@ -334,6 +334,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -503,6 +504,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -922,6 +924,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -932,6 +935,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1511,6 +1515,7 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3934-smallest-unique-subarray) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1619,4 +1624,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
