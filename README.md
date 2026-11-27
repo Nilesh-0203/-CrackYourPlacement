@@ -926,6 +926,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1031,6 +1032,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Graph
 |  |
 | ------- |
@@ -1326,6 +1328,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nilesh-0203/-CrackYourPlacement/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
